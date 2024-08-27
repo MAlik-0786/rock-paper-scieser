@@ -49,7 +49,7 @@
             document.querySelector('.js-result').innerHTML = result;
             document.querySelector('.js-moves')
               .innerHTML = `you choose <img src="images/${plyarmove}-emoji.png" alt="">
-       computer choose <img src="images/${computerMove}-emoji.png" alt="">';
+       computer choose <img src="images/${computerMove}-emoji.png" alt=""> `;
        
         //     `you choose  <b>${plyarmove}</b>  ||
        // computer choose <b>${computerMove}</b> `;`
